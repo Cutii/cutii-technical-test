@@ -14,20 +14,10 @@ Feel free to add buttons to navigate between pages (not mandatory).
 
 ### Screens
 
-- Form
+![app](./test-tech.png)
 
+Note : click on submit button in modal will close the modal.
 
-![form](./app/form.png)
-
-- Gallery
-
-![gallery](./app/gallery.png)
-
-Then when we click on one robot, it must display a modal with informations ... ➡️
-
-- Informations
-
-![infos](./app/modal.png)
 
 
 You must use this technical stack :
